@@ -30,7 +30,12 @@ echo "Setup script started"
 #echo "git install done"
 #echo "Git default editor set to vim"
 #git config --global core.editor vim
-
+#
+## python-pip       DONE
+#echo "Installing python-pip"
+#sudo apt-get install python-pip
+#echo "Python-pip install done"
+#
 ## Java	openjdk			DONE
 #echo "Installing java"
 #apt-get install default-jdk
